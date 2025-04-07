@@ -64,15 +64,18 @@
 
 ### **Virtual Box:**
 
-![](./images/VB.png)
+![Screenshot 2025-03-27 214340](https://github.com/user-attachments/assets/cf8c4aa7-d265-4efc-bd84-c1219aa09aa5)
+
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
+![Screenshot 2025-03-27 212237](https://github.com/user-attachments/assets/4816bdc3-896b-4d75-94cb-d79136e3e89e)
 
-![](./images/kali1.png)
+
+
+
 
 ---
 
